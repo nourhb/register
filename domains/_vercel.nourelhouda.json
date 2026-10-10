@@ -1,8 +1,1 @@
-{
-  "owner": {
-    "username": "Nourhb"
-  },
-  "records": {
-    "TXT": "vc-domain-verify=nourelhouda.is-a.dev"
-  }
-}
+{  "owner": {    "username": "Nourhb"  },  "records": {    "TXT": "vc-domain-verify=nourelhouda.is-a.dev,7c7da8d1ab734d03baf0"  }}
